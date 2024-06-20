@@ -1,4 +1,4 @@
-@media (max-width: 550px) {/* Celular*/
+@media (min-width: 320px) and (max-width: 480px) {/* Celular*/
   body {
     background-color: blue;
   }header {
